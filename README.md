@@ -1,4 +1,4 @@
-# 🟠 Pang
+# 🟠 PANG
 
 **PANG** is a recreation of the classic arcade video game developed in **C++** using **OpenGL**. The game preserves the original mechanics: the player must **destroy all the bubbles** on the screen while avoiding being hit by them.  
 
